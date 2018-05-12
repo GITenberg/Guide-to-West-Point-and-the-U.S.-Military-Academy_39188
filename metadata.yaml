@@ -1,0 +1,28 @@
+_repo: Guide-to-West-Point-and-the-U.S.-Military-Academy_39188
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39188-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Boynton, Edward C. (Edward Carlisle)
+    alias: Boynton, Edward Carlisle
+    birthdate: 1824
+    deathdate: 1893
+    gutenberg_agent_id: '39888'
+    url: http://www.gutenberg.org/2009/agents/39888
+description: ''
+gutenberg_issued: '2012-03-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39188'
+  lccn: '01015020'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F106'
+- !lcsh 'West Point (N.Y.) -- Guidebooks'
+title: Guide to West Point, and the U.S. Military Academy
+url: http://www.gutenberg.org/ebooks/39188
